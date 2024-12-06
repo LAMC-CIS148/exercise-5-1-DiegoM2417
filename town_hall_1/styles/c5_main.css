@@ -13,7 +13,7 @@ body {
 	margin-botttom: 0;
 	margin-left: auto;
 	margin-right: auto;
-	border: 3px #931420;
+	border: 3px dark red;
 	background-color: #fffded;
 }
 a:focus, a:hover {
