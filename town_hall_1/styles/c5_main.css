@@ -45,7 +45,8 @@ main {
 	padding-right: 30px;
 }
 main h1 {
-	border: 3px solid blue;
+	border-top: 3px dark red;
+	border-bottom:  3px dark red;
 	font-size: 150%;
 	padding: .3em 0;
 }
